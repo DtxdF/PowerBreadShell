@@ -17,6 +17,6 @@ Como la descripcion lo dice es un generador de puertas traseras utilizando varia
     
 # Capturas de pantallas
 
-![](https://i.imgur.com/BIzU89h.png)
+![](https://i.imgur.com/qnL4ifU.png)
 
 ![](https://i.imgur.com/exRa3zH.png)
